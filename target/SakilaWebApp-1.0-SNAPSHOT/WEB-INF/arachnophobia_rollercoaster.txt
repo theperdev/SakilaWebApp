@@ -1,0 +1,14 @@
+
+Id: 35
+Title: ARACHNOPHOBIA ROLLERCOASTER
+Description: A Action-Packed Reflection of a Pastry Chef And a Composer who must Discover a Mad Scientist in The First Manned Space Station
+Year: 2006
+Language Id: 1
+Original Language Id: 0
+Duration: 4
+Rental rate: 2.99
+Length: 147
+Replacement cost: 24.99
+Rating: PG-13
+Special features: Trailers,Deleted Scenes,Behind the Scenes
+Last update: 2006-02-15 05:03:42.0

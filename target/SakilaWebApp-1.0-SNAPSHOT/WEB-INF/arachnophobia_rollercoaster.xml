@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<film>
+<id>35</id>
+<title>ARACHNOPHOBIA ROLLERCOASTER</title>
+<description>A Action-Packed Reflection of a Pastry Chef And a Composer who must Discover a Mad Scientist in The First Manned Space Station</description>
+<year>2006</year>
+<language>1</language>
+<original_language_id>0</original_language_id>
+<duration>4</duration>
+<rental_rate>2.99</rental_rate>
+<length>147</length>
+<replacement_cost>24.99</replacement_cost>
+<rating>PG-13</rating>
+<special_features>Trailers,Deleted Scenes,Behind the Scenes</special_features>
+<last_update>2006-02-15 05:03:42.0</last_update>
+</film>

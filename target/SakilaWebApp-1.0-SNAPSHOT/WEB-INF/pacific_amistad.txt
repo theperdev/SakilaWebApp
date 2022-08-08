@@ -1,0 +1,13 @@
+Id: 650
+Title: PACIFIC AMISTAD
+Description: A Thrilling Yarn of a Dog And a Moose who must Kill a Pastry Chef in A Manhattan Penthouse
+Year: 2006
+Language Id: 1
+Original Language Id: 0
+Duration: 3
+Rental rate: 0.99
+Length: 144
+Replacement cost: 27.99
+Rating: G
+Special features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+Last update: 2006-02-15 05:03:42.0
